@@ -1,0 +1,256 @@
+{
+    "Promo Codes": {
+        "GENSHINGIFT": "Primogem ×50 Hero's Wit ×3"
+    },
+    "Character Banner 1": [
+        "Shenhe",
+        "Yun Jin",
+        "Ningguang",
+        "Chongyun"
+    ],
+    "Character Banner 2": [
+        "Shenhe",
+        "Yun Jin",
+        "Ningguang",
+        "Chongyun"
+    ],
+    "Weapon Banner": [
+        "Calamity Queller",
+        "Primordial Jade Winged-Spear",
+        "Lithic Spear",
+        "The Flute",
+        "Favonius Greatsword",
+        "The Widsith",
+        "Favonius Warbow"
+    ],
+    "Spiral Abyss": {
+        "Floor 9": {
+            "Leyline Disorder": "・A Plasma Field will be generated at the edge of the challenge area once the challenge begins.\n・While within the field, characters will be hit by a lightning strike once every 5 seconds and take Electro DMG. The area covered by the field will gradually expand as the challenge proceeds.",
+            "Recommended Characters": {
+                "First Half": {
+                    "Main DPS": [
+                        "Hu Tao",
+                        "Diluc",
+                        "Klee",
+                        "Itto",
+                        "Yanfei",
+                        "Noelle"
+                    ],
+                    "Sub DPS": [
+                        "Venti",
+                        "Mona",
+                        "Xingqiu",
+                        "Ganyu",
+                        "Kaeya",
+                        "Xiangling"
+                    ],
+                    "Support": [
+                        "Kazuha",
+                        "Zhongli",
+                        "Thoma",
+                        "Bennett",
+                        "Raiden",
+                        "Diona"
+                    ]
+                },
+                "Second Half": {
+                    "Main DPS": [
+                        "Ayaka",
+                        "Ganyu",
+                        "Xiao",
+                        "Itto",
+                        "Chongyun",
+                        "Noelle"
+                    ],
+                    "Sub DPS": [
+                        "Venti",
+                        "Kaeya",
+                        "Raiden",
+                        "Fischl",
+                        "Xiangling",
+                        "Rosaria"
+                    ],
+                    "Support": [
+                        "Kazuha",
+                        "Sucrose",
+                        "Diona",
+                        "Zhongli",
+                        "Qiqi",
+                        "Xinyan"
+                    ]
+                }
+            }
+        },
+        "Floor 10": {
+            "Leyline Disorder": "・A Plasma Field will be generated at the edge of the challenge area once the challenge begins.\n・While within the field, characters will be hit by a lightning strike once every 5 seconds and take Electro DMG. The area covered by the field will gradually expand as the challenge proceeds.",
+            "Recommended Characters": {
+                "First Half": {
+                    "Main DPS": [
+                        "Hu Tao",
+                        "Ayaka",
+                        "Ganyu",
+                        "Diluc",
+                        "Yoimiya",
+                        "Chongyun"
+                    ],
+                    "Sub DPS": [
+                        "Kazuha",
+                        "Venti",
+                        "Kaeya",
+                        "Xiangling",
+                        "Rosaria",
+                        "Amber"
+                    ],
+                    "Support": [
+                        "Bennett",
+                        "Zhongli",
+                        "Diona",
+                        "Thoma",
+                        "Qiqi",
+                        "Sucrose"
+                    ]
+                },
+                "Second Half": {
+                    "Main DPS": [
+                        "Ayaka",
+                        "Ganyu",
+                        "Xiao",
+                        "Itto",
+                        "Noelle",
+                        "Ningguang"
+                    ],
+                    "Sub DPS": [
+                        "Kaeya",
+                        "Xingqiu",
+                        "Mona",
+                        "Xiangling",
+                        "Fischl",
+                        "Beidou"
+                    ],
+                    "Support": [
+                        "Diona",
+                        "Qiqi",
+                        "Bennett",
+                        "Raiden",
+                        "Shenhe",
+                        "Zhongli"
+                    ]
+                }
+            }
+        },
+        "Floor 11": {
+            "Leyline Disorder": "・All party members' Normal Attack Damage increased by 50%",
+            "Recommended Characters": {
+                "First Half": {
+                    "Main DPS": [
+                        "Razor",
+                        "Ningguang",
+                        "Tartaglia",
+                        "Ganyu",
+                        "Eula",
+                        "Itto"
+                    ],
+                    "Sub DPS": [
+                        "Kaeya",
+                        "Xingqiu",
+                        "Albedo",
+                        "Rosaria",
+                        "Raiden",
+                        "Shenhe"
+                    ],
+                    "Support": [
+                        "Bennett",
+                        "Mona",
+                        "Zhongli",
+                        "Diona",
+                        "Gorou",
+                        "Yun Jin"
+                    ]
+                },
+                "Second Half": {
+                    "Main DPS": [
+                        "Klee",
+                        "Xiao",
+                        "Ningguang",
+                        "Ganyu",
+                        "Yanfei",
+                        "Yoimiya"
+                    ],
+                    "Sub DPS": [
+                        "Kaeya",
+                        "Xiangling",
+                        "Chongyun",
+                        "Albedo",
+                        "Rosaria",
+                        "Shenhe"
+                    ],
+                    "Support": [
+                        "Bennett",
+                        "Zhongli",
+                        "Diona",
+                        "Gorou",
+                        "Thoma",
+                        "Yun Jin"
+                    ]
+                }
+            }
+        },
+        "Floor 12": {
+            "Leyline Disorder": "・Certain opponents in this challenge possess the Honed Spirit effect, which grants them 10% Physical and All Elemental RES. When opponents with Honed Spirit take hits from attacks that are considered Normal Attack DMG, they will lose 3% Physical and All Elemental RES. A maximum of 30% of each may be lost this way. The RES lost this way will be reset every 20s.",
+            "Recommended Characters": {
+                "First Half": {
+                    "Main DPS": [
+                        "Hu Tao",
+                        "Itto",
+                        "Yoimiya",
+                        "Xiao",
+                        "Ningguang",
+                        "Noelle"
+                    ],
+                    "Sub DPS": [
+                        "Raiden",
+                        "Kazuha",
+                        "Mona",
+                        "Xiangling",
+                        "Xingqiu",
+                        "Albedo"
+                    ],
+                    "Support": [
+                        "Zhongli",
+                        "Bennett",
+                        "Qiqi",
+                        "Jean",
+                        "Diona",
+                        "Thoma"
+                    ]
+                },
+                "Second Half": {
+                    "Main DPS": [
+                        "Ayaka",
+                        "Eula",
+                        "Ganyu",
+                        "Xiao",
+                        "Chongyun",
+                        "Noelle"
+                    ],
+                    "Sub DPS": [
+                        "Shenhe",
+                        "Kazuha",
+                        "Xiangling",
+                        "Mona",
+                        "Rosaria",
+                        "Kaeya"
+                    ],
+                    "Support": [
+                        "Bennett",
+                        "Kokomi",
+                        "Qiqi",
+                        "Barbara",
+                        "Sucrose",
+                        "Diona"
+                    ]
+                }
+            }
+        }
+    }
+}
